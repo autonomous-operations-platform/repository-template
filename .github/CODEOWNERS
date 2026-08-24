@@ -1,0 +1,4 @@
+# Protect all security relevant files
+
+.github/CODEOWNERS @autonomous-operations-platform/admin
+renovate.json @autonomous-operations-platform/admin
