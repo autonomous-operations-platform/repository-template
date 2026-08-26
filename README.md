@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2026 SAP SE or an SAP affiliate company and Apeiro Autonomous Operations contributors
+SPDX-FileCopyrightText: 2026 SAP SE or an SAP affiliate company and Autonomous Operations contributors
 
 SPDX-License-Identifier: Apache-2.0
 -->
@@ -43,4 +43,4 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 ## Licensing
 
-Copyright (20xx-)20xx SAP SE or an SAP affiliate company and <your-project> contributors. Please see our [LICENSE](LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/<your-project>).
+Copyright 2026 SAP SE or an SAP affiliate company and <your-project> contributors. Please see our [LICENSE](./LICENSE) for copyright and license information. Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/SAP/<your-project>).
