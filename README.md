@@ -4,6 +4,8 @@ SPDX-FileCopyrightText: 2026 SAP SE or an SAP affiliate company and Autonomous O
 SPDX-License-Identifier: Apache-2.0
 -->
 
+[![CodeQL Advanced](https://github.com/autonomous-operations-platform/repository-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/autonomous-operations-platform/repository-template/actions/workflows/codeql.yml)
+
 # SAP Repository Template
 
 Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template.
