@@ -14,6 +14,7 @@ Default templates for SAP open source repositories, including LICENSE, .reuse/de
 
 In case you are the maintainer of a new SAP open source project, these are the steps to do with the template files:
 
+- Install the [REUSE tool](https://reuse.readthedocs.io/) locally via pip (`pip install reuse`) to validate license compliance before pushing. The system package (e.g. via apt) is outdated and does not support `REUSE.toml`.
 - Check if the default license (Apache 2.0) also applies to your project. A license change should only be required in exceptional cases. If this is the case, please change the [license file](LICENSE).
 - Enter the correct metadata for the REUSE tool. See our [wiki page](https://wiki.one.int.sap/wiki/spaces/ospodocs/pages/2280860762/Using+the+Reuse+Tool+of+FSFE+for+Copyright+and+License+Information) for details how to do it. You can find an initial .reuse/dep5 file to build on. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository and be sure to run the REUSE tool to validate that the metadata is correct.
 - Adjust the contribution guidelines (e.g. add coding style guidelines, pull request checklists, different license if needed etc.)
