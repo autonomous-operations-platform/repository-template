@@ -8,7 +8,7 @@ SPDX-License-Identifier: Apache-2.0
 
 # Autonomous Operations Platform Repository Template
 
-Default templates for Autonomous Operations Platform open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/autonomous-operations-platform will be created based on this template.
+Default templates for Autonomous Operations Platform open source repositories managed by SAP, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/autonomous-operations-platform will be created based on this template.
 
 ## To-Do
 
