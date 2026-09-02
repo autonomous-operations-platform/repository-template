@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(node *)",
+      "Bash(awk *)",
+      "Bash(sort*)",
+      "Bash(ls*)",
+      "Bash(cat*)",
+      "Bash(wc*)",
+      "Bash(find*)",
+      "Bash(grep*)",
+      "Read(/tmp/**)"
+    ],
+    "ask": ["Bash(rm *)", "Bash(rmdir *)", "Bash(chmod *)", "Bash(chown *)"]
+  },
+  "plansDirectory": "./.claude/plans"
+}
