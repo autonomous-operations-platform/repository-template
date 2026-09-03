@@ -21,7 +21,7 @@ jobs:
       - uses: actions/create-github-app-token@v3
         id: app-token
         with:
-          client-id: ${{ vars.APP_CLIENT_ID }}
+          client-id: ${{ secrets.APP_CLIENT_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
       - name: First-time contributors
         uses: actions/first-interaction@1c4688942c71f71d4f5502a26ea67c331730fa4d # v3
