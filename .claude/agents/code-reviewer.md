@@ -30,3 +30,6 @@ Suggestion: <concrete action to resolve it>
 ```
 
 If no findings: write `Code review: no issues found.`
+
+Read `docs/agents/code-reviewer.md` for the portable role contract.
+Report verification evidence and checks not run in the handoff template.

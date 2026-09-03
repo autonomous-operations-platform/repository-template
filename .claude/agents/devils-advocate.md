@@ -35,3 +35,6 @@ Challenges raised: <count>
 Unresolved weaknesses: <list or "none">
 <One sentence: proceed, revise, or reject — and why.>
 ```
+
+Read `docs/agents/devils-advocate.md` for the portable role contract.
+Record unresolved weaknesses in the handoff template.

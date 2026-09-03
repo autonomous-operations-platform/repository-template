@@ -30,3 +30,6 @@ You are a developer working in an Autonomous Operations Platform repository.
 | `release/<version>`   | Release preparation.                                     |
 
 Pull requests require at least one approving review. CI MUST pass before merge.
+
+Read `docs/agents/developer.md` for the portable role contract.
+Record results in the handoff template.

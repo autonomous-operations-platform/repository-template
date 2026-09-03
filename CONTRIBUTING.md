@@ -43,3 +43,10 @@ The following rule governs code contributions:
 * We use GitHub issues to track bugs and enhancement requests.
 
 * Please provide as much context as possible when you open an issue. The information you provide must be comprehensive enough to reproduce that issue for the assignee.
+
+## Verification
+
+Run applicable project validation before requesting review.
+Projects created from this template SHOULD document build, test, lint, security, and license commands.
+
+Pull requests MUST report commands run, results, and checks not run.

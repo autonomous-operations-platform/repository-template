@@ -41,3 +41,6 @@ Fix: <concrete action to resolve it>
 ```
 
 If no findings: write `Security review: no issues found.`
+
+Read `docs/agents/security-reviewer.md` for the portable role contract.
+Report compliance evidence and checks not run in the handoff template.

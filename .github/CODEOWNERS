@@ -7,3 +7,7 @@
 
 .github/CODEOWNERS @autonomous-operations-platform/admin
 renovate.json @autonomous-operations-platform/admin
+AGENTS.md @autonomous-operations-platform/admin
+/.claude/ @autonomous-operations-platform/admin
+/.codex/ @autonomous-operations-platform/admin
+/docs/agents/ @autonomous-operations-platform/admin
