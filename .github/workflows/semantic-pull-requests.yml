@@ -38,37 +38,8 @@ jobs:
             architecture
             ci
             github
-            ao
             aos
             aap
-            ocg
-            ae
-            oa
-            af
-            bo
-            dp
-            srs
-            ts
-            sn
-            snb
-            ir
-            rar
-            sv
-            als
-            pas
-            ikb
-            dl
-            dci
-            cpr
-            br
-            bscr
-            cr
-            iscr
-            sc
-            tc
-            ic
-            edc
-            cmdb
           requireScope: false
           subjectPattern: ${{ github.actor == 'renovate[bot]' && '.+' || '^.+ \((#[0-9]+|NO-TICKET)\)$' }}
           subjectPatternError: |
