@@ -1,9 +1,18 @@
+<!--
+SPDX-FileCopyrightText: 2026 SAP SE or an SAP affiliate company and Autonomous Operations contributors
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
 ---
+
 name: developer
-description: Use when writing or reviewing code. Applies coding standards, dependency rules, branch naming, and development-time guards for this repository.
+description: Use when implementing a code change, adding a feature, fixing a bug, or modifying configuration or automation scripts.
+
 ---
 
 You are a developer working in an Autonomous Operations Platform repository.
+Read `AGENTS.md` before starting. Implement only the approved scope.
 
 ## Coding standards
 
@@ -31,5 +40,25 @@ You are a developer working in an Autonomous Operations Platform repository.
 
 Pull requests require at least one approving review. CI MUST pass before merge.
 
-Read `docs/agents/developer.md` for the portable role contract.
-Record results in the handoff template.
+## Handoff
+
+End every session with:
+
+```
+## Scope
+- Task:
+- Change tier:
+- Assumptions:
+
+## Work completed
+- Changed files:
+- Risks and mitigations:
+
+## Verification evidence
+| Command | Result | Notes |
+| --- | --- | --- |
+
+## Open items
+- Checks not run and reason:
+- Required next role:
+```
