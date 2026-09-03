@@ -37,8 +37,8 @@ SPDX-License-Identifier: Apache-2.0
 
 ## Agent profiles
 
-Portable role profiles live in [`docs/agents`](docs/agents/README.md).
-Tool-specific adapters MAY reference those profiles.
+Role profiles and the handoff template live in [`.claude/agents/`](.claude/agents/).
+All tool adapters (Claude, Codex, and OpenCode) share this canonical source.
 
 | Role | Use when | Required handoff |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Tool-specific adapters MAY reference those profiles.
 | security-reviewer | Reviewing high-risk changes before merge | Security findings and compliance evidence |
 | devils-advocate | Challenging a design before implementation | Unresolved weaknesses and recommendation |
 
-Use [`docs/agents/handoff-template.md`](docs/agents/handoff-template.md) for role handoffs.
+Each agent profile includes a handoff template. Use it at the end of every session.
 
 ## Risk-based workflows
 
