@@ -19,7 +19,7 @@ In case you are the maintainer of a new Autonomous Operations Platform open sour
 - Enter the correct metadata for the REUSE tool. You can find an initial .reuse/dep5 file to build on. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository and be sure to run the REUSE tool to validate that the metadata is correct.
 - Adjust the contribution guidelines (e.g. add coding style guidelines, pull request checklists, different license if needed etc.)
 - Add information about your project to this README (name, description, requirements etc). Especially take care for the <your-project> placeholders - those ones need to be replaced with your project name. See the sections below the horizontal line and [our guidelines on our wiki page](https://wiki.one.int.sap/wiki/spaces/ospodocs/pages/3564976048/Guidelines+for+GitHub+Health+files+Readme+Contributing+Code+of+Conduct#GuidelinesforGitHubHealthfiles(Readme,Contributing,CodeofConduct)-Readme.md) what is required and recommended.
-- Remove all content in this README above and including the horizontal line ;)
+- Remove all content in this README above and including the horizontal line
 
 ***
 
