@@ -10,8 +10,9 @@
 /.github/CODEOWNERS @autonomous-operations-platform/repository-admins
 
 # Continuous integration, releases, and repository automation
-/.github/workflows/ @autonomous-operations-platform/dev-ops @autonomous-operations-platform/sec-ops
-/renovate.json @autonomous-operations-platform/dev-ops @autonomous-operations-platform/sec-ops
+/.github/workflows/ @autonomous-operations-platform/dev-ops
+/.github/workflows/codeql.yml @autonomous-operations-platform/sec-ops
+/renovate.json @autonomous-operations-platform/sec-ops
 
 # Agent harness and architecture guidance
 /AGENTS.md @autonomous-operations-platform/sec-ops @autonomous-operations-platform/architects
