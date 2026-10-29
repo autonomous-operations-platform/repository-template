@@ -1,9 +1,3 @@
-<!--
-SPDX-FileCopyrightText: 2026 SAP SE or an SAP affiliate company and Autonomous Operations Platform contributors
-
-SPDX-License-Identifier: Apache-2.0
--->
-
 [![CodeQL Advanced](https://github.com/autonomous-operations-platform/repository-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/autonomous-operations-platform/repository-template/actions/workflows/codeql.yml) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/autonomous-operations-platform/repository-template/badge)](https://scorecard.dev/viewer/?uri=github.com/autonomous-operations-platform/repository-template) [![REUSE status](https://api.reuse.software/badge/github.com/autonomous-operations-platform/repository-template)](https://api.reuse.software/info/github.com/autonomous-operations-platform/repository-template)
 
 # Autonomous Operations Platform Repository Template
